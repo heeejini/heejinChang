@@ -23,4 +23,4 @@
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heejin00628@gmail.com)](mailto:heejin00628@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwo&layout=compact)](https://github.com/ssohye/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejinChang&layout=compact)](https://github.com/heejinChang/github-readme-stats)
